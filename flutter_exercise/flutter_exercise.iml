@@ -45,6 +45,9 @@
       <excludeFolder url="file://$MODULE_DIR$/demo02/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/demo02/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/demo02/build" />
+      <excludeFolder url="file://$MODULE_DIR$/demo03/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/demo03/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/demo03/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
